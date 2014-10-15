@@ -8,7 +8,7 @@
 </settings>
 <grid distance="1.27" unitdist="mm" unit="mm" style="lines" multiple="2" display="yes" altdistance="0.000003" altunitdist="mm" altunit="mm"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
 <layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
@@ -23,42 +23,42 @@
 <layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
 <layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="yes"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="yes"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="yes"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="yes"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="yes"/>
+<layer number="21" name="tPlace" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="yes"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
+<layer number="25" name="tNames" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="27" name="tValues" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
-<layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
-<layer number="33" name="tFinish" color="6" fill="3" visible="yes" active="yes"/>
-<layer number="34" name="bFinish" color="6" fill="6" visible="yes" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
-<layer number="36" name="bGlue" color="7" fill="5" visible="yes" active="yes"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
-<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
-<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
+<layer number="51" name="tDocu" color="3" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="no" active="no"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="no" active="no"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="no"/>
@@ -288,7 +288,7 @@
 <rectangle x1="2.898340625" y1="32.12831875" x2="4.71416875" y2="36.377171875" layer="30"/>
 <rectangle x1="3.620015625" y1="34.654346875" x2="11.139403125" y2="36.447015625" layer="30"/>
 <text x="56.405384375" y="5.4653" size="1.778" layer="16" font="vector" ratio="20" rot="MR0">goron.dekar@gmail.com</text>
-<text x="19.34320625" y="1.477109375" size="1.778" layer="1" font="vector" ratio="20">rev 1.0</text>
+<text x="19.34320625" y="1.477109375" size="0.6096" layer="1" font="vector" ratio="20">rev 1.0</text>
 </plain>
 <libraries>
 <library name="transistor-fet">
@@ -1894,154 +1894,323 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="Q1" library="transistor-fet" package="TO252" value="FDD4141TO252" x="27.94" y="25.4"/>
-<element name="U$1" library="transistor-power" package="SUPER-SOT3" value="IRLML2803" x="27.19740625" y="12.725728125"/>
-<element name="R1" library="rcl" package="M0805" value="" x="27.94" y="16.51"/>
-<element name="R2" library="rcl" package="M0805" value="" x="29.21" y="8.89"/>
-<element name="R4" library="varistor" package="CT/CN1812" value="VARISTORCN1812" x="26.67" y="35.56" rot="R270"/>
-<element name="R3" library="rcl" package="M0805" value="" x="24.3428" y="14.55453125" rot="R90"/>
-<element name="LED1" library="led" package="CHIPLED_1206" value="" x="24.493671875" y="7.5005875" rot="R180"/>
-<element name="D1" library="diode" package="SMB" value="" x="30.48" y="38.1" rot="R90"/>
-<element name="SJ1" library="jumper" package="SJ_2" value="" x="31.75" y="12.7" rot="R270"/>
-<element name="X1" library="con-phoenix-508" package="MSTBA2" value="MSTBA2" x="27.94" y="49.53" rot="R180">
+<element name="Q1" library="transistor-fet" package="TO252" value="FDD4141TO252" x="27.94" y="25.4" smashed="yes">
+<attribute name="NAME" x="29.21" y="27.94" size="1.016" layer="25" rot="R180"/>
+<attribute name="VALUE" x="31.03830625" y="30.689365625" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="U$1" library="transistor-power" package="SUPER-SOT3" value="IRLML2803" x="27.19740625" y="12.725728125" smashed="yes">
+<attribute name="NAME" x="26.540184375" y="13.918790625" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="25.6302125" y="12.4006" size="0.6096" layer="27"/>
+</element>
+<element name="R1" library="rcl" package="M0805" value="510" x="27.94" y="16.51" smashed="yes">
+<attribute name="NAME" x="26.67" y="17.78" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="28.16654375" y="17.7906125" size="0.6096" layer="27"/>
+</element>
+<element name="R2" library="rcl" package="M0805" value="1000" x="29.21" y="8.89" smashed="yes">
+<attribute name="NAME" x="27.94" y="8.89" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="29.0556375" y="8.270053125" size="0.6096" layer="27"/>
+</element>
+<element name="R4" library="varistor" package="CT/CN1812" value="VARISTORCN1812" x="26.67" y="35.56" smashed="yes" rot="R270">
+<attribute name="NAME" x="25.966390625" y="38.211234375" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="26.556915625" y="40.108165625" size="0.6096" layer="27" rot="R270"/>
+</element>
+<element name="R3" library="rcl" package="M0805" value="1000" x="24.3428" y="14.55453125" smashed="yes" rot="R90">
+<attribute name="NAME" x="24.780528125" y="15.848078125" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="25.15473125" y="13.92766875" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="LED1" library="led" package="CHIPLED_1206" value="" x="24.493671875" y="7.5005875" smashed="yes" rot="R180">
+<attribute name="NAME" x="24.157428125" y="8.393578125" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="21.953671875" y="8.7705875" size="1.27" layer="27" rot="R270"/>
+</element>
+<element name="D1" library="diode" package="SMB" value="" x="30.48" y="38.1" smashed="yes" rot="R90">
+<attribute name="NAME" x="31.042075" y="40.70319375" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="33.909" y="35.941" size="1.27" layer="27" rot="R90"/>
+</element>
+<element name="SJ1" library="jumper" package="SJ_2" value="" x="31.75" y="12.7" smashed="yes" rot="R270">
+<attribute name="NAME" x="31.32654375" y="13.3799375" size="0.6096" layer="25" ratio="10" rot="R270"/>
+<attribute name="VALUE" x="31.75" y="12.8001" size="0.02" layer="27" rot="R270"/>
+</element>
+<element name="X1" library="con-phoenix-508" package="MSTBA2" value="MSTBA2" x="27.94" y="49.53" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="71C4161" x="27.94" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="1757242" x="27.94" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="FARNELL" x="27.94" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="3705171" x="27.94" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="X2" library="con-molex" package="22-23-2041" value="22-23-2041" x="27.94" y="50.8">
+<element name="X2" library="con-molex" package="22-23-2041" value="22-23-2041" x="27.94" y="50.8" smashed="yes">
 <attribute name="OC_NEWARK" value="38C0355" x="27.94" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="22-23-2041" x="27.94" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="MOLEX" x="27.94" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="1462920" x="27.94" y="50.8" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="22.86" y="54.61" size="1.016" layer="25" ratio="10"/>
 </element>
-<element name="R5" library="rcl" package="M0805" value="" x="29.21" y="6.35" rot="R180"/>
-<element name="Q2" library="transistor-fet" package="TO252" value="FDD4141TO252" x="38.1" y="25.4"/>
-<element name="U$2" library="transistor-power" package="SUPER-SOT3" value="IRLML2803" x="37.35740625" y="12.725728125"/>
-<element name="R6" library="rcl" package="M0805" value="" x="38.1" y="16.51"/>
-<element name="R7" library="rcl" package="M0805" value="" x="39.37" y="8.89"/>
-<element name="R8" library="varistor" package="CT/CN1812" value="VARISTORCN1812" x="36.83" y="35.56" rot="R270"/>
-<element name="R9" library="rcl" package="M0805" value="" x="34.5028" y="14.55453125" rot="R90"/>
-<element name="LED2" library="led" package="CHIPLED_1206" value="" x="34.653671875" y="7.5005875" rot="R180"/>
-<element name="D2" library="diode" package="SMB" value="" x="40.64" y="38.1" rot="R90"/>
-<element name="SJ2" library="jumper" package="SJ_2" value="" x="41.91" y="12.7" rot="R270"/>
-<element name="X3" library="con-phoenix-508" package="MSTBA2" value="MSTBA2" x="38.1" y="49.53" rot="R180">
+<element name="R5" library="rcl" package="M0805" value="200" x="29.21" y="6.35" smashed="yes" rot="R180">
+<attribute name="NAME" x="28.593259375" y="6.9015875" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="30.922975" y="6.297109375" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="Q2" library="transistor-fet" package="TO252" value="FDD4141TO252" x="38.1" y="25.4" smashed="yes">
+<attribute name="NAME" x="39.37" y="27.94" size="1.016" layer="25" rot="R180"/>
+<attribute name="VALUE" x="41.148146875" y="30.64989375" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="U$2" library="transistor-power" package="SUPER-SOT3" value="IRLML2803" x="37.35740625" y="12.725728125" smashed="yes">
+<attribute name="NAME" x="36.611665625" y="13.839503125" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="36.079996875" y="12.390425" size="0.6096" layer="27"/>
+</element>
+<element name="R6" library="rcl" package="M0805" value="510" x="38.1" y="16.51" smashed="yes">
+<attribute name="NAME" x="36.83" y="17.78" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="38.1" y="17.78" size="0.6096" layer="27"/>
+</element>
+<element name="R7" library="rcl" package="M0805" value="1000" x="39.37" y="8.89" smashed="yes">
+<attribute name="NAME" x="37.981853125" y="8.801121875" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="39.19923125" y="8.1715875" size="0.6096" layer="27"/>
+</element>
+<element name="R8" library="varistor" package="CT/CN1812" value="VARISTORCN1812" x="36.83" y="35.56" smashed="yes" rot="R270">
+<attribute name="NAME" x="35.49209375" y="37.73986875" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="36.87444375" y="39.81275625" size="0.6096" layer="27" rot="R270"/>
+</element>
+<element name="R9" library="rcl" package="M0805" value="1000" x="34.5028" y="14.55453125" smashed="yes" rot="R90">
+<attribute name="NAME" x="34.8625125" y="15.807971875" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="35.31545625" y="13.82848125" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="LED2" library="led" package="CHIPLED_1206" value="" x="34.653671875" y="7.5005875" smashed="yes" rot="R180">
+<attribute name="NAME" x="33.19678125" y="7.714728125" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="32.113671875" y="8.7705875" size="1.27" layer="27" rot="R270"/>
+</element>
+<element name="D2" library="diode" package="SMB" value="" x="40.64" y="38.1" smashed="yes" rot="R90">
+<attribute name="NAME" x="41.1082375" y="40.256690625" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="44.069" y="35.941" size="1.27" layer="27" rot="R90"/>
+</element>
+<element name="SJ2" library="jumper" package="SJ_2" value="" x="41.91" y="12.7" smashed="yes" rot="R270">
+<attribute name="NAME" x="41.585" y="13.47840625" size="0.6096" layer="25" ratio="10" rot="R270"/>
+<attribute name="VALUE" x="41.91" y="12.8001" size="0.02" layer="27" rot="R270"/>
+</element>
+<element name="X3" library="con-phoenix-508" package="MSTBA2" value="MSTBA2" x="38.1" y="49.53" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="71C4161" x="38.1" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="1757242" x="38.1" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="FARNELL" x="38.1" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="3705171" x="38.1" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="X4" library="con-molex" package="22-23-2041" value="22-23-2041" x="38.1" y="50.8">
+<element name="X4" library="con-molex" package="22-23-2041" value="22-23-2041" x="38.1" y="50.8" smashed="yes">
 <attribute name="OC_NEWARK" value="38C0355" x="38.1" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="22-23-2041" x="38.1" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="MOLEX" x="38.1" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="1462920" x="38.1" y="50.8" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="33.02" y="54.61" size="1.016" layer="25" ratio="10"/>
 </element>
-<element name="R10" library="rcl" package="M0805" value="" x="39.37" y="6.35" rot="R180"/>
-<element name="Q3" library="transistor-fet" package="TO252" value="FDD4141TO252" x="48.26" y="25.4"/>
-<element name="U$3" library="transistor-power" package="SUPER-SOT3" value="IRLML2803" x="47.51740625" y="12.725728125"/>
-<element name="R11" library="rcl" package="M0805" value="" x="48.26" y="16.51"/>
-<element name="R12" library="rcl" package="M0805" value="" x="49.53" y="8.89"/>
-<element name="R13" library="varistor" package="CT/CN1812" value="VARISTORCN1812" x="46.99" y="35.56" rot="R270"/>
-<element name="R14" library="rcl" package="M0805" value="" x="44.6628" y="14.55453125" rot="R90"/>
-<element name="LED3" library="led" package="CHIPLED_1206" value="" x="44.813671875" y="7.5005875" rot="R180"/>
-<element name="D3" library="diode" package="SMB" value="" x="50.8" y="38.1" rot="R90"/>
-<element name="SJ3" library="jumper" package="SJ_2" value="" x="52.07" y="12.7" rot="R270"/>
-<element name="X5" library="con-phoenix-508" package="MSTBA2" value="MSTBA2" x="48.26" y="49.53" rot="R180">
+<element name="R10" library="rcl" package="M0805" value="200" x="39.37" y="6.35" smashed="yes" rot="R180">
+<attribute name="NAME" x="39.24545" y="7.06569375" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="40.869690625" y="6.313521875" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="Q3" library="transistor-fet" package="TO252" value="FDD4141TO252" x="48.26" y="25.4" smashed="yes">
+<attribute name="NAME" x="49.53" y="27.94" size="1.016" layer="25" rot="R180"/>
+<attribute name="VALUE" x="51.189721875" y="30.5853125" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="U$3" library="transistor-power" package="SUPER-SOT3" value="IRLML2803" x="47.51740625" y="12.725728125" smashed="yes">
+<attribute name="NAME" x="46.820071875" y="13.741175" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="46.2596875" y="12.429809375" size="0.6096" layer="27"/>
+</element>
+<element name="R11" library="rcl" package="M0805" value="510" x="48.26" y="16.51" smashed="yes">
+<attribute name="NAME" x="46.57648125" y="17.76030625" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="48.26" y="17.78" size="0.6096" layer="27"/>
+</element>
+<element name="R12" library="rcl" package="M0805" value="1000" x="49.53" y="8.89" smashed="yes">
+<attribute name="NAME" x="47.98431875" y="8.998059375" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="49.441265625" y="8.253640625" size="0.6096" layer="27"/>
+</element>
+<element name="R13" library="varistor" package="CT/CN1812" value="VARISTORCN1812" x="46.99" y="35.56" smashed="yes" rot="R270">
+<attribute name="NAME" x="45.06209375" y="37.502778125" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="47.03444375" y="39.89153125" size="0.6096" layer="27" rot="R270"/>
+</element>
+<element name="R14" library="rcl" package="M0805" value="1000" x="44.6628" y="14.55453125" smashed="yes" rot="R90">
+<attribute name="NAME" x="45.3974125" y="16.12234375" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="45.633740625" y="14.10343125" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="LED3" library="led" package="CHIPLED_1206" value="" x="44.813671875" y="7.5005875" smashed="yes" rot="R180">
+<attribute name="NAME" x="42.914325" y="7.95306875" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="42.273671875" y="8.7705875" size="1.27" layer="27" rot="R270"/>
+</element>
+<element name="D3" library="diode" package="SMB" value="" x="50.8" y="38.1" smashed="yes" rot="R90">
+<attribute name="NAME" x="51.05810625" y="40.37228125" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="54.229" y="35.941" size="1.27" layer="27" rot="R90"/>
+</element>
+<element name="SJ3" library="jumper" package="SJ_2" value="" x="52.07" y="12.7" smashed="yes" rot="R270">
+<attribute name="NAME" x="51.764690625" y="13.202690625" size="0.6096" layer="25" ratio="10" rot="R270"/>
+<attribute name="VALUE" x="52.07" y="12.8001" size="0.02" layer="27" rot="R270"/>
+</element>
+<element name="X5" library="con-phoenix-508" package="MSTBA2" value="MSTBA2" x="48.26" y="49.53" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="71C4161" x="48.26" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="1757242" x="48.26" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="FARNELL" x="48.26" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="3705171" x="48.26" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="X6" library="con-molex" package="22-23-2041" value="22-23-2041" x="48.26" y="50.8">
+<element name="X6" library="con-molex" package="22-23-2041" value="22-23-2041" x="48.26" y="50.8" smashed="yes">
 <attribute name="OC_NEWARK" value="38C0355" x="48.26" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="22-23-2041" x="48.26" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="MOLEX" x="48.26" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="1462920" x="48.26" y="50.8" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="43.18" y="54.61" size="1.016" layer="25" ratio="10"/>
 </element>
-<element name="R15" library="rcl" package="M0805" value="" x="49.53" y="6.35" rot="R180"/>
-<element name="Q4" library="transistor-fet" package="TO252" value="FDD4141TO252" x="58.42" y="25.4"/>
-<element name="U$4" library="transistor-power" package="SUPER-SOT3" value="IRLML2803" x="57.67740625" y="12.725728125"/>
-<element name="R16" library="rcl" package="M0805" value="" x="58.42" y="16.51"/>
-<element name="R17" library="rcl" package="M0805" value="" x="58.42" y="8.89"/>
-<element name="R18" library="varistor" package="CT/CN1812" value="VARISTORCN1812" x="57.15" y="35.56" rot="R270"/>
-<element name="R19" library="rcl" package="M0805" value="" x="54.8228" y="14.55453125" rot="R90"/>
-<element name="LED4" library="led" package="CHIPLED_1206" value="" x="54.973671875" y="7.5005875" rot="R180"/>
-<element name="D4" library="diode" package="SMB" value="" x="60.96" y="38.1" rot="R90"/>
-<element name="SJ4" library="jumper" package="SJ_2" value="" x="62.23" y="12.7" rot="R270"/>
-<element name="X7" library="con-phoenix-508" package="MSTBA2" value="MSTBA2" x="58.42" y="49.53" rot="R180">
+<element name="R15" library="rcl" package="M0805" value="200" x="49.53" y="6.35" smashed="yes" rot="R180">
+<attribute name="NAME" x="49.536703125" y="6.917996875" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="51.013284375" y="6.08376875" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="Q4" library="transistor-fet" package="TO252" value="FDD4141TO252" x="58.42" y="25.4" smashed="yes">
+<attribute name="NAME" x="59.69" y="27.94" size="1.016" layer="25" rot="R180"/>
+<attribute name="VALUE" x="61.367559375" y="30.431475" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="U$4" library="transistor-power" package="SUPER-SOT3" value="IRLML2803" x="57.67740625" y="12.725728125" smashed="yes">
+<attribute name="NAME" x="57.157796875" y="13.891590625" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="56.38030625" y="12.478790625" size="0.6096" layer="27"/>
+</element>
+<element name="R16" library="rcl" package="M0805" value="510" x="58.42" y="16.51" smashed="yes">
+<attribute name="NAME" x="56.775865625" y="17.76030625" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="58.42" y="17.78" size="0.6096" layer="27"/>
+</element>
+<element name="R17" library="rcl" package="M0805" value="1000" x="58.42" y="8.89" smashed="yes">
+<attribute name="NAME" x="56.79555625" y="9.01775625" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="58.150790625" y="8.319284375" size="0.6096" layer="27"/>
+</element>
+<element name="R18" library="varistor" package="CT/CN1812" value="VARISTORCN1812" x="57.15" y="35.56" smashed="yes" rot="R270">
+<attribute name="NAME" x="55.340953125" y="37.46270625" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="57.194440625" y="39.655203125" size="0.6096" layer="27" rot="R270"/>
+</element>
+<element name="R19" library="rcl" package="M0805" value="1000" x="54.8228" y="14.55453125" smashed="yes" rot="R90">
+<attribute name="NAME" x="55.499071875" y="15.78683125" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="55.7157" y="13.92545625" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="LED4" library="led" package="CHIPLED_1206" value="" x="54.973671875" y="7.5005875" smashed="yes" rot="R180">
+<attribute name="NAME" x="53.652921875" y="7.987115625" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="52.433671875" y="8.7705875" size="1.27" layer="27" rot="R270"/>
+</element>
+<element name="D4" library="diode" package="SMB" value="" x="60.96" y="38.1" smashed="yes" rot="R90">
+<attribute name="NAME" x="61.35856875" y="40.296271875" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="64.389" y="35.941" size="1.27" layer="27" rot="R90"/>
+</element>
+<element name="SJ4" library="jumper" package="SJ_2" value="" x="62.23" y="12.7" smashed="yes" rot="R270">
+<attribute name="NAME" x="61.964075" y="13.143609375" size="0.6096" layer="25" ratio="10" rot="R270"/>
+<attribute name="VALUE" x="62.23" y="12.8001" size="0.02" layer="27" rot="R270"/>
+</element>
+<element name="X7" library="con-phoenix-508" package="MSTBA2" value="MSTBA2" x="58.42" y="49.53" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="71C4161" x="58.42" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="1757242" x="58.42" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="FARNELL" x="58.42" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="3705171" x="58.42" y="49.53" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="X8" library="con-molex" package="22-23-2041" value="22-23-2041" x="58.42" y="50.8">
+<element name="X8" library="con-molex" package="22-23-2041" value="22-23-2041" x="58.42" y="50.8" smashed="yes">
 <attribute name="OC_NEWARK" value="38C0355" x="58.42" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="22-23-2041" x="58.42" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="MOLEX" x="58.42" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="1462920" x="58.42" y="50.8" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="53.34" y="54.61" size="1.016" layer="25" ratio="10"/>
 </element>
-<element name="R20" library="rcl" package="M0805" value="" x="58.42" y="6.35" rot="R180"/>
-<element name="X9" library="con-molex" package="5566-6" value="5566-6" x="12.7" y="41.91" rot="R180">
+<element name="R20" library="rcl" package="M0805" value="200" x="58.42" y="6.35" smashed="yes" rot="R180">
+<attribute name="NAME" x="58.426703125" y="7.00005" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="59.936096875" y="6.247878125" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="X9" library="con-molex" package="5566-6" value="5566-6" x="12.7" y="41.91" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="22K8620" x="12.7" y="41.91" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="95566-61002" x="12.7" y="41.91" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="" x="12.7" y="41.91" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="12.7" y="41.91" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="13.97" y="48.895" size="1.27" layer="25" rot="R180"/>
 </element>
-<element name="X10" library="con-molex" package="22-23-2041" value="22-23-2041" x="43.18" y="2.54" rot="R180">
+<element name="X10" library="con-molex" package="22-23-2041" value="22-23-2041" x="43.18" y="2.54" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="38C0355" x="43.18" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="22-23-2041" x="43.18" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="MOLEX" x="43.18" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="1462920" x="43.18" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="48.26" y="-1.27" size="0.6096" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="X11" library="con-molex" package="22-23-2041" value="22-23-2041" x="12.7" y="27.94">
+<element name="X11" library="con-molex" package="22-23-2041" value="22-23-2041" x="12.7" y="27.94" smashed="yes">
 <attribute name="OC_NEWARK" value="38C0355" x="12.7" y="27.94" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="22-23-2041" x="12.7" y="27.94" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="MOLEX" x="12.7" y="27.94" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="1462920" x="12.7" y="27.94" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="7.62" y="31.75" size="0.6096" layer="25" ratio="10"/>
 </element>
-<element name="X12" library="con-molex" package="22-23-2041" value="22-23-2041" x="12.7" y="2.54" rot="R180">
+<element name="X12" library="con-molex" package="22-23-2041" value="22-23-2041" x="12.7" y="2.54" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="38C0355" x="12.7" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="22-23-2041" x="12.7" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="MOLEX" x="12.7" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="1462920" x="12.7" y="2.54" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="17.78" y="-1.27" size="0.6096" layer="25" ratio="10" rot="R180"/>
 </element>
-<element name="R21" library="rcl" package="M0805" value="" x="8.89" y="20.32" rot="R90"/>
-<element name="R22" library="rcl" package="M0805" value="" x="11.43" y="20.32" rot="R90"/>
-<element name="R23" library="rcl" package="M0805" value="" x="16.51" y="20.32" rot="R90"/>
-<element name="R24" library="rcl" package="M0805" value="" x="13.97" y="20.32" rot="R90"/>
-<element name="X13" library="con-molex" package="22-23-2061" value="" x="12.7" y="50.8">
+<element name="R21" library="rcl" package="M0805" value="10k" x="8.89" y="20.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="9.712346875" y="21.566871875" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="9.5468625" y="19.610853125" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="R22" library="rcl" package="M0805" value="10k" x="11.43" y="20.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="12.14626875" y="21.578515625" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="11.957084375" y="19.6459625" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="R23" library="rcl" package="M0805" value="10k" x="16.51" y="20.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="17.226571875" y="21.649053125" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="17.108490625" y="19.621996875" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="R24" library="rcl" package="M0805" value="10k" x="13.97" y="20.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="14.650940625" y="21.613796875" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="14.509221875" y="19.68128125" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="X13" library="con-molex" package="22-23-2061" value="" x="12.7" y="50.8" smashed="yes">
 <attribute name="OC_NEWARK" value="27C1933" x="12.7" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="22-23-2061" x="12.7" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="MOLEX" x="12.7" y="50.8" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="1462922" x="12.7" y="50.8" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="5.08" y="54.61" size="1.016" layer="25" ratio="10"/>
+<attribute name="VALUE" x="5.08" y="45.72" size="1.016" layer="27" ratio="10"/>
 </element>
-<element name="D5" library="diode" package="SOD80C" value="" x="20.32" y="11.43"/>
-<element name="D6" library="diode" package="SOD80C" value="" x="16.51" y="15.24"/>
-<element name="D7" library="diode" package="SOD80C" value="" x="8.89" y="15.24" rot="R180"/>
-<element name="D8" library="diode" package="SOD80C" value="" x="5.08" y="11.43" rot="R180"/>
-<element name="X14" library="con-molex" package="22-23-2021" value="22-23-2021" x="3.81" y="3.81" rot="R90">
+<element name="D5" library="diode" package="SOD80C" value="3.3" x="20.32" y="11.43" smashed="yes">
+<attribute name="NAME" x="18.157990625" y="12.194828125" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="17.968953125" y="10.978765625" size="0.6096" layer="27"/>
+</element>
+<element name="D6" library="diode" package="SOD80C" value="3.3" x="16.51" y="15.24" smashed="yes">
+<attribute name="NAME" x="14.206209375" y="15.65029375" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="14.30073125" y="14.5051375" size="0.6096" layer="27"/>
+</element>
+<element name="D7" library="diode" package="SOD80C" value="3.3" x="8.89" y="15.24" smashed="yes" rot="R180">
+<attribute name="NAME" x="10.98111875" y="16.129671875" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="11.1229" y="14.9821625" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="D8" library="diode" package="SOD80C" value="3.3" x="5.08" y="11.43" smashed="yes" rot="R180">
+<attribute name="NAME" x="7.218378125" y="12.4614875" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="7.40741875" y="11.29034375" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="X14" library="con-molex" package="22-23-2021" value="22-23-2021" x="3.81" y="3.81" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="25C3832" x="3.81" y="3.81" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="22-23-2021" x="3.81" y="3.81" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="MOLEX" x="3.81" y="3.81" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="OC_FARNELL" value="1462926" x="3.81" y="3.81" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="0" y="1.27" size="0.6096" layer="25" ratio="10" rot="R90"/>
 </element>
-<element name="X15" library="con-molex" package="22-23-2021" value="22-23-2021" x="62.23" y="3.81" rot="R270">
+<element name="X15" library="con-molex" package="22-23-2021" value="22-23-2021" x="62.23" y="3.81" smashed="yes" rot="R270">
 <attribute name="OC_NEWARK" value="25C3832" x="62.23" y="3.81" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="22-23-2021" x="62.23" y="3.81" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MF" value="MOLEX" x="62.23" y="3.81" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="OC_FARNELL" value="1462926" x="62.23" y="3.81" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="66.04" y="6.35" size="0.6096" layer="25" ratio="10" rot="R270"/>
 </element>
-<element name="X16" library="con-molex" package="22-23-2031" value="22-23-2031" x="3.81" y="30.48" rot="R90">
+<element name="X16" library="con-molex" package="22-23-2031" value="22-23-2031" x="3.81" y="30.48" smashed="yes" rot="R90">
 <attribute name="OC_NEWARK" value="30C0862" x="3.81" y="30.48" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="22-23-2031" x="3.81" y="30.48" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="MOLEX" x="3.81" y="30.48" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="OC_FARNELL" value="1462950" x="3.81" y="30.48" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="0" y="26.67" size="0.6096" layer="25" ratio="10" rot="R90"/>
 </element>
-<element name="LED5" library="led" package="CHIPLED_1206" value="" x="5.08" y="16.51" rot="R180"/>
-<element name="R25" library="rcl" package="M0805" value="" x="5.08" y="21.59" rot="R90"/>
-<element name="LED6" library="led" package="CHIPLED_1206" value="" x="2.54" y="16.51" rot="R180"/>
-<element name="R26" library="rcl" package="M0805" value="" x="2.54" y="21.59" rot="R90"/>
+<element name="LED5" library="led" package="CHIPLED_1206" value="" x="5.08" y="16.51" smashed="yes" rot="R180">
+<attribute name="NAME" x="3.82214375" y="14.316728125" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="2.54" y="17.78" size="1.27" layer="27" rot="R270"/>
+</element>
+<element name="R25" library="rcl" package="M0805" value="1000" x="5.08" y="21.59" smashed="yes" rot="R90">
+<attribute name="NAME" x="5.725171875" y="23.05035" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="5.985209375" y="20.90509375" size="0.6096" layer="27" rot="R180"/>
+</element>
+<element name="LED6" library="led" package="CHIPLED_1206" value="" x="2.54" y="16.51" smashed="yes" rot="R180">
+<attribute name="NAME" x="1.24635625" y="14.541528125" size="0.6096" layer="25"/>
+<attribute name="VALUE" x="0" y="17.78" size="1.27" layer="27" rot="R270"/>
+</element>
+<element name="R26" library="rcl" package="M0805" value="510" x="2.54" y="21.59" smashed="yes" rot="R90">
+<attribute name="NAME" x="3.385771875" y="22.967903125" size="0.6096" layer="25" rot="R180"/>
+<attribute name="VALUE" x="3.24403125" y="20.9881" size="0.6096" layer="27" rot="R180"/>
+</element>
 </elements>
 <signals>
 <signal name="N$1">

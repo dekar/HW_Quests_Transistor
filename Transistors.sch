@@ -9454,12 +9454,12 @@ Source: http://www.molex.com</description>
 <parts>
 <part name="Q1" library="transistor-fet" deviceset="FDD4141" device="TO252"/>
 <part name="U$1" library="transistor-power" deviceset="IRLML2803" device=""/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="M0805" value="510"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="M0805" value="1000"/>
 <part name="R4" library="varistor" deviceset="VARISTOR" device="CN1812"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
-<part name="R3" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R3" library="rcl" deviceset="R-EU_" device="M0805" value="1000"/>
 <part name="LED1" library="led" deviceset="LED" device="CHIPLED_1206"/>
 <part name="D1" library="diode" deviceset="DIODE-" device="SMB"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
@@ -9470,15 +9470,15 @@ Source: http://www.molex.com</description>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="X2" library="con-molex" deviceset="22-23-2041" device=""/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
-<part name="R5" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R5" library="rcl" deviceset="R-EU_" device="M0805" value="200"/>
 <part name="Q2" library="transistor-fet" deviceset="FDD4141" device="TO252"/>
 <part name="U$2" library="transistor-power" deviceset="IRLML2803" device=""/>
-<part name="R6" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R7" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R6" library="rcl" deviceset="R-EU_" device="M0805" value="510"/>
+<part name="R7" library="rcl" deviceset="R-EU_" device="M0805" value="1000"/>
 <part name="R8" library="varistor" deviceset="VARISTOR" device="CN1812"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
-<part name="R9" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R9" library="rcl" deviceset="R-EU_" device="M0805" value="1000"/>
 <part name="LED2" library="led" deviceset="LED" device="CHIPLED_1206"/>
 <part name="D2" library="diode" deviceset="DIODE-" device="SMB"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
@@ -9487,15 +9487,15 @@ Source: http://www.molex.com</description>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="X4" library="con-molex" deviceset="22-23-2041" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
-<part name="R10" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R10" library="rcl" deviceset="R-EU_" device="M0805" value="200"/>
 <part name="Q3" library="transistor-fet" deviceset="FDD4141" device="TO252"/>
 <part name="U$3" library="transistor-power" deviceset="IRLML2803" device=""/>
-<part name="R11" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R12" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R11" library="rcl" deviceset="R-EU_" device="M0805" value="510"/>
+<part name="R12" library="rcl" deviceset="R-EU_" device="M0805" value="1000"/>
 <part name="R13" library="varistor" deviceset="VARISTOR" device="CN1812"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
-<part name="R14" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R14" library="rcl" deviceset="R-EU_" device="M0805" value="1000"/>
 <part name="LED3" library="led" deviceset="LED" device="CHIPLED_1206"/>
 <part name="D3" library="diode" deviceset="DIODE-" device="SMB"/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
@@ -9504,15 +9504,15 @@ Source: http://www.molex.com</description>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="X6" library="con-molex" deviceset="22-23-2041" device=""/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
-<part name="R15" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R15" library="rcl" deviceset="R-EU_" device="M0805" value="200"/>
 <part name="Q4" library="transistor-fet" deviceset="FDD4141" device="TO252"/>
 <part name="U$4" library="transistor-power" deviceset="IRLML2803" device=""/>
-<part name="R16" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R17" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R16" library="rcl" deviceset="R-EU_" device="M0805" value="510"/>
+<part name="R17" library="rcl" deviceset="R-EU_" device="M0805" value="1000"/>
 <part name="R18" library="varistor" deviceset="VARISTOR" device="CN1812"/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
 <part name="GND17" library="supply1" deviceset="GND" device=""/>
-<part name="R19" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R19" library="rcl" deviceset="R-EU_" device="M0805" value="1000"/>
 <part name="LED4" library="led" deviceset="LED" device="CHIPLED_1206"/>
 <part name="D4" library="diode" deviceset="DIODE-" device="SMB"/>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
@@ -9521,7 +9521,7 @@ Source: http://www.molex.com</description>
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
 <part name="X8" library="con-molex" deviceset="22-23-2041" device=""/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
-<part name="R20" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R20" library="rcl" deviceset="R-EU_" device="M0805" value="200"/>
 <part name="P+3" library="supply1" deviceset="+5V" device=""/>
 <part name="P+4" library="supply1" deviceset="+5V" device=""/>
 <part name="P+5" library="supply1" deviceset="+5V" device=""/>
@@ -9542,10 +9542,10 @@ Source: http://www.molex.com</description>
 <attribute name="OC_FARNELL" value="1462920"/>
 <attribute name="OC_NEWARK" value="38C0355"/>
 </part>
-<part name="R21" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R22" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R23" library="rcl" deviceset="R-EU_" device="M0805"/>
-<part name="R24" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R21" library="rcl" deviceset="R-EU_" device="M0805" value="10k"/>
+<part name="R22" library="rcl" deviceset="R-EU_" device="M0805" value="10k"/>
+<part name="R23" library="rcl" deviceset="R-EU_" device="M0805" value="10k"/>
+<part name="R24" library="rcl" deviceset="R-EU_" device="M0805" value="10k"/>
 <part name="X13" library="con-molex" deviceset="22-23-2061" device=""/>
 <part name="P+9" library="supply1" deviceset="+5V" device=""/>
 <part name="P+10" library="supply1" deviceset="+12V" device=""/>
@@ -9553,10 +9553,10 @@ Source: http://www.molex.com</description>
 <part name="P+11" library="supply1" deviceset="+5V" device=""/>
 <part name="P+12" library="supply1" deviceset="+12V" device=""/>
 <part name="GND22" library="supply1" deviceset="GND" device=""/>
-<part name="D5" library="diode" deviceset="ZENER-DIODE" device="SOD80C"/>
-<part name="D6" library="diode" deviceset="ZENER-DIODE" device="SOD80C"/>
-<part name="D7" library="diode" deviceset="ZENER-DIODE" device="SOD80C"/>
-<part name="D8" library="diode" deviceset="ZENER-DIODE" device="SOD80C"/>
+<part name="D5" library="diode" deviceset="ZENER-DIODE" device="SOD80C" value="3.3"/>
+<part name="D6" library="diode" deviceset="ZENER-DIODE" device="SOD80C" value="3.3"/>
+<part name="D7" library="diode" deviceset="ZENER-DIODE" device="SOD80C" value="3.3"/>
+<part name="D8" library="diode" deviceset="ZENER-DIODE" device="SOD80C" value="3.3"/>
 <part name="GND23" library="supply1" deviceset="GND" device=""/>
 <part name="X14" library="con-molex" deviceset="22-23-2021" device=""/>
 <part name="X15" library="con-molex" deviceset="22-23-2021" device=""/>
@@ -9568,10 +9568,10 @@ Source: http://www.molex.com</description>
 <part name="GND26" library="supply1" deviceset="GND" device=""/>
 <part name="LED5" library="led" deviceset="LED" device="CHIPLED_1206"/>
 <part name="GND27" library="supply1" deviceset="GND" device=""/>
-<part name="R25" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R25" library="rcl" deviceset="R-EU_" device="M0805" value="1000"/>
 <part name="LED6" library="led" deviceset="LED" device="CHIPLED_1206"/>
 <part name="GND28" library="supply1" deviceset="GND" device=""/>
-<part name="R26" library="rcl" deviceset="R-EU_" device="M0805"/>
+<part name="R26" library="rcl" deviceset="R-EU_" device="M0805" value="510"/>
 <part name="P+15" library="supply1" deviceset="+5V" device=""/>
 <part name="P+16" library="supply1" deviceset="+12V" device=""/>
 </parts>
